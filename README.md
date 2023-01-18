@@ -2,7 +2,7 @@
 
 My name is Vinicius Rossi, and I'm a Brazilian front-end developer passionate about the web, design, cinema, riding bike, rock music and travels of the world.
 
-Currently, I'm Angular Front-end Developer at [BRQ Digital Solutions](https://www.brq.com/) and living in São Paulo, Brazil. I believe that more than writing code, planning solutions to help people is what makes our work so cool. ⌨️
+Currently, I'm Angular Front-end Developer at [TOTVS S.A.](https://www.totvs.com/) and living in São Paulo, Brazil. I believe that more than writing code, planning solutions to help people is what makes our work so cool. ⌨️
 
 In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵), to riding bike, to cooking , go to the cinema to watch movies and eventually I like to study about design and I'm a cocktail enthusiast.
 
